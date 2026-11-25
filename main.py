@@ -31,6 +31,12 @@ Drafting notes (scored against the judge brief):
      One strong image, but a thinner scene than the others.
   F. Friday leftovers unionised ("They know"). Runner-up at 4/5;
      fresh and sharp, but C's specificity wins the head-to-head.
+- Full win table (15 pairs, blind, judged only against the brief):
+  A-B: B, A-C: C, A-D: A, A-E: A, A-F: F,
+  B-C: C, B-D: B, B-E: B, B-F: F,
+  C-D: C, C-E: C, C-F: C,
+  D-E: E, D-F: F, E-F: F.
+  Wins: A 2, B 3, C 5, D 0, E 1, F 4. Winner C, runner-up F.
 - Extra-mile pass after the pick: C stress-tested against the spec
   (127 chars, one line, complete, lock-screen readable), against a
   generic house baseline ("It's 3am and you're hungry again. The
@@ -38,6 +44,7 @@ Drafting notes (scored against the judge brief):
   and the weakest dimension (the fridge calling itself "me") checked:
   it is the voice the brief asks for, a machine with an opinion.
   No change needed; the line stands as tournament-won.
+- Gate check: 127 chars, 1-140 required, UTF-8, single line.
 """
 
 import os
